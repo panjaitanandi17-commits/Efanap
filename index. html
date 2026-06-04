@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="in">
+<head>
+    <meta charset="UTF-8">
+    <title>Judul halaman</title>
+</head>
+<body>
+    
+<div class="kotak">
+  kotak
+</div>
+
+<style>
+
+.kotak {
+  width: 200px;         
+  height: 200px;        
+  background-color: blue;
+  border: 5px solid black; 
+  display: flex;        
+  align-items: center;  
+  justify-content: center; 
+  color: white;          
+  font-weight: bold;   
+  font-size: 100%
+}
+</style>
+
+</body>
+</html>
